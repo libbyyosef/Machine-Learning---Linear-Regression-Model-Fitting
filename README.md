@@ -1,7 +1,4 @@
-![Israel_monthly_Average_Temperature](https://github.com/libbyyosef/Machine-Learning---Linear-Regression-Model-Fitting/assets/36642026/e5d1d0b2-c7da-4622-addf-6b3aa259c1f0)# Linear-Regression-Model-Fitting
-
-
-**Linear Regression Model Fitting**
+#Linear-Regression-Model-Fitting
 
 This repository contains Python implementations for fitting a linear regression model to real-world datasets. The implementation includes various components such as loss functions, linear regression models, data preprocessing, feature selection, and polynomial fitting.
 
@@ -29,6 +26,8 @@ The repository includes the following files relevant to the implemented linear r
 - **Israel_Different_k.png:** Image file containing the bar plot of test error for different values of k in polynomial fitting for Israel.
 - **Other_Countries_Loss.png:** Image file containing the bar plot of test error for other countries when using the model fitted over Israel.
 
+
+![Israel_monthly_Average_Temperature](https://github.com/libbyyosef/Machine-Learning---Linear-Regression-Model-Fitting/assets/36642026/e5d1d0b2-c7da-4622-addf-6b3aa259c1f0)
 
 ![Avg_Loss_As_Function_Of_Training_Size](https://github.com/libbyyosef/Machine-Learning---Linear-Regression-Model-Fitting/assets/36642026/64fc7c90-037b-452e-a418-13801d84d549)
 
